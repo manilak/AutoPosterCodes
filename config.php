@@ -2,7 +2,7 @@
 //creating connection to databases falcon_reserve_2 and bo.favista.in 
 
 //Host Name, User Name & Password for database falcon_reserve_2
-global $host1,$host2,$user1,$user2,$password1,$password2,$database1,$database2;
+//global $host1,$host2,$user1,$user2,$password1,$password2,$database1,$database2;
  $host1= "192.168.0.133";
  $user1= "root";
  $password1="falcon_dev";
