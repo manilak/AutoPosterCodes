@@ -1,6 +1,4 @@
 <?php
-
-
 // Tell the server to treat this file as an image
 header('Content-type: image/jpeg');
  
