@@ -2,6 +2,7 @@
 ///////////error reporting
 error_reporting(E_ALL);
 ini_set('display_errors','1');  
+////font file
 $font_path = "/var/www/test/arial.ttf"; // Font file
 $font_size = 30; // in pixcels
 $water_mark_text_2 = "9lessons"; // Watermark Text
