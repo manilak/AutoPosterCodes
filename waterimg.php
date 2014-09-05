@@ -1,5 +1,8 @@
 <?php
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd9996897837d1e427241358c79a64385f0b85f4
 // Tell the server to treat this file as an image
 header('Content-type: image/jpeg');
  
